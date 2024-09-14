@@ -1,0 +1,18 @@
+div{
+    text-align: center;
+    padding-top: 50px;
+}
+img{
+    size: 10px;
+    border: 10px solid white;
+
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+*{
+    background-color: black;
+}
